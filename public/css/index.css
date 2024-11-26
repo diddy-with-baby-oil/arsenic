@@ -10,7 +10,12 @@
   --secondary-theme: rgb(166, 218, 149);
   --shadow: rgba(138, 173, 244, 0.5);
   --text: #cad3f5;
+
+  /* New variables */
+  --transparencyalpha: 0.6;
+  --background-image: url(https://raw.githubusercontent.com/TheBugCoder/ChromaGlowThemeBetterD/main/discord-chroma-bg.png);
 }
+
 
 * {
   margin: 0;
